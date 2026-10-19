@@ -10,6 +10,11 @@ Programs
 4. Factorial Using Recursion
 5. Fibonacci Sequence up to N Terms
 
+Mini Programs
+1. Temperature Converter
+2. Grade calculator
+3. ATM stimulator
+
 Language
 
 - Python
